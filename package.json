@@ -1,0 +1,19 @@
+{
+  "name": "javascript-101",
+  "version": "1.0.0",
+  "description": "JavaScript Basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designeryani/JavaScript-101.git"
+  },
+  "author": "Yanisleidy Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/designeryani/JavaScript-101/issues"
+  },
+  "homepage": "https://github.com/designeryani/JavaScript-101#readme"
+}
